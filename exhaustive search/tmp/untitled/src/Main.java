@@ -14,5 +14,8 @@ public class Main {
 
         int result2 = 9 & result;
         System.out.println("9 & 1 << 3: " + result2);
+
+        int tmp2 = 1;
+        String tmp2Str = String.valueOf(tmp2);
     }
 }
